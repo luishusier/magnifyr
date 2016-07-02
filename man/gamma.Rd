@@ -2,7 +2,7 @@
 % Please edit documentation in R/gamma.R
 \name{gamma}
 \alias{gamma}
-\title{Gamma Random Vectors}
+\title{Gamma random vectors}
 \usage{
 gamma(a, b)
 }

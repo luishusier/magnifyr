@@ -2,7 +2,7 @@
 % Please edit documentation in R/beta.R
 \name{beta}
 \alias{beta}
-\title{Beta Random Vectors}
+\title{Beta random vectors}
 \usage{
 beta(a, b)
 }

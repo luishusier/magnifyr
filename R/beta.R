@@ -1,4 +1,4 @@
-#' Beta Random Vectors
+#' Beta random vectors
 #'
 #' Generate and do operations on Beta random vectors
 #'

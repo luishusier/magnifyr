@@ -1,4 +1,4 @@
-#' Gamma Random Vectors
+#' Gamma random vectors
 #'
 #' Generate and do operations on Gamma random vectors
 #'
