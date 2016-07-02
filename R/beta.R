@@ -31,6 +31,7 @@ mean.beta <- function(x, ...) {
   as.double(Re(x))
 }
 
+#' @importFrom stats rbeta
 #' @export
 draw.beta <- function(rv) {
   dr <- as.double(Re(rv))

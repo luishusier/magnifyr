@@ -1,5 +1,3 @@
-#' Random Vectors
-
 #' Draw from a random vector
 #'
 #' @param rv A random vector

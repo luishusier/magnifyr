@@ -2,8 +2,7 @@
 % Please edit documentation in R/random.R
 \name{draw}
 \alias{draw}
-\title{Random Vectors
-Draw from a random vector}
+\title{Draw from a random vector}
 \usage{
 draw(rv)
 }
@@ -14,7 +13,6 @@ draw(rv)
 A numeric vector of same length
 }
 \description{
-Random Vectors
 Draw from a random vector
 }
 
