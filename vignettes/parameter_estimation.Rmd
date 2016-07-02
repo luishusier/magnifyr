@@ -1,0 +1,13 @@
+---
+title: "Parameter Estimation"
+author: "Luis Usier"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Parameter Estimation}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+This vignette explains how to do basic one- and two-level
+parameter estimation in `magnifyr`

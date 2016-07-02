@@ -1,0 +1,15 @@
+Package: magnifyr
+Title: Magnify Your Inferences Using Random Objects
+Version: 0.1.0
+Authors@R: person("Luis", "Usier", email = "luis.henrique.usier@gmail.com",
+    role = c("aut", "cre"))
+Description: Implements random vectors and related methods including inference
+    and simulation. Designed to work smoothly with data frames.
+License: MIT + file LICENSE
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+URL: http://github.com/luishusier/magnifyr
+BugReports: http://github.com/luishusier/magnifyr/issues
