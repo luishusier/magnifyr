@@ -15,4 +15,3 @@ A numeric vector of same length
 \description{
 Draw from a random vector
 }
-

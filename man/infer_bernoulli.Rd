@@ -15,4 +15,3 @@ a Beta random variable for the probability \eqn{p}
 \description{
 Infer a Bernoulli process from data
 }
-

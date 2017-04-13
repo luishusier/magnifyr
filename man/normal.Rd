@@ -24,4 +24,3 @@ mean(x)
 draw(x)
 
 }
-

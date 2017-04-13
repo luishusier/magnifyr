@@ -6,7 +6,8 @@ Authors@R: person("Luis", "Usier", email = "luis.henrique.usier@gmail.com",
 Description: Implements random vectors and related methods including inference
     and simulation. Designed to work smoothly with data frames.
 License: MIT + file LICENSE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
+Imports: magrittr
 Suggests: knitr,
     rmarkdown,
     testthat

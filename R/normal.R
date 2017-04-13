@@ -1,4 +1,4 @@
-#' Normal random ectors
+#' Normal random vectors
 #'
 #' Generate and do operations on Normal random vectors
 #'

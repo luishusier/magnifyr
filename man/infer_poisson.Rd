@@ -15,4 +15,3 @@ a Gamma random variable for the rate \eqn{\lambda}
 \description{
 Infer a Poisson process from data
 }
-
